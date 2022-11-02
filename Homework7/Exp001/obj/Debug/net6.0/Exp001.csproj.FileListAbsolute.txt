@@ -1,0 +1,15 @@
+C:\Users\PROДетство\Desktop\обучение IT\Тестеровщик GB\Stminar7\Homework7\Exp001\obj\Debug\net6.0\Exp001.csproj.AssemblyReference.cache
+C:\Users\PROДетство\Desktop\обучение IT\Тестеровщик GB\Stminar7\Homework7\Exp001\obj\Debug\net6.0\Exp001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PROДетство\Desktop\обучение IT\Тестеровщик GB\Stminar7\Homework7\Exp001\obj\Debug\net6.0\Exp001.AssemblyInfoInputs.cache
+C:\Users\PROДетство\Desktop\обучение IT\Тестеровщик GB\Stminar7\Homework7\Exp001\obj\Debug\net6.0\Exp001.AssemblyInfo.cs
+C:\Users\PROДетство\Desktop\обучение IT\Тестеровщик GB\Stminar7\Homework7\Exp001\obj\Debug\net6.0\Exp001.csproj.CoreCompileInputs.cache
+C:\Users\PROДетство\Desktop\обучение IT\Тестеровщик GB\Stminar7\Homework7\Exp001\bin\Debug\net6.0\Exp001.exe
+C:\Users\PROДетство\Desktop\обучение IT\Тестеровщик GB\Stminar7\Homework7\Exp001\bin\Debug\net6.0\Exp001.deps.json
+C:\Users\PROДетство\Desktop\обучение IT\Тестеровщик GB\Stminar7\Homework7\Exp001\bin\Debug\net6.0\Exp001.runtimeconfig.json
+C:\Users\PROДетство\Desktop\обучение IT\Тестеровщик GB\Stminar7\Homework7\Exp001\bin\Debug\net6.0\Exp001.dll
+C:\Users\PROДетство\Desktop\обучение IT\Тестеровщик GB\Stminar7\Homework7\Exp001\bin\Debug\net6.0\Exp001.pdb
+C:\Users\PROДетство\Desktop\обучение IT\Тестеровщик GB\Stminar7\Homework7\Exp001\obj\Debug\net6.0\Exp001.dll
+C:\Users\PROДетство\Desktop\обучение IT\Тестеровщик GB\Stminar7\Homework7\Exp001\obj\Debug\net6.0\refint\Exp001.dll
+C:\Users\PROДетство\Desktop\обучение IT\Тестеровщик GB\Stminar7\Homework7\Exp001\obj\Debug\net6.0\Exp001.pdb
+C:\Users\PROДетство\Desktop\обучение IT\Тестеровщик GB\Stminar7\Homework7\Exp001\obj\Debug\net6.0\Exp001.genruntimeconfig.cache
+C:\Users\PROДетство\Desktop\обучение IT\Тестеровщик GB\Stminar7\Homework7\Exp001\obj\Debug\net6.0\ref\Exp001.dll
